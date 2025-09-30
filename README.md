@@ -1,5 +1,4 @@
 ﻿# Introduction
-Intoduction
 Hello ACM team !
    Myself Abhinav ,student of BSC 1<sup>st</sup> year and the new member of ACM. First of all I am glad to be a part of this team and Thank u for giving me this opportunity.
    I am very excited to work with you all and looking forward to learn new things from you all.          
@@ -11,3 +10,4 @@ Hello ACM team !
   
    Regards~
    Abhinav 
+
